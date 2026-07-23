@@ -1,0 +1,14 @@
+ligand,mode,affinity_kcal_mol,rmsd_lb_A,rmsd_ub_A
+Limonene,1,-6.356,0.0,0.0
+Limonene,2,-6.34,1.028,2.093
+Limonene,3,-6.098,1.72,3.094
+L-carvone,1,-6.675,0.0,0.0
+L-carvone,2,-6.356,2.186,3.552
+L-carvone,3,-6.283,1.418,3.831
+Carbaryl,1,-8.489,0.0,0.0
+Carbaryl,2,-7.935,1.611,2.034
+Carbaryl,3,-7.488,1.549,3.156
+Malathion,1,-6.611,0.0,0.0
+Malathion,2,-6.598,3.037,5.708
+Malathion,3,-6.532,1.352,2.021
+Malathion,4,-6.399,2.814,5.337
