@@ -72,6 +72,40 @@ The repository contains the available receptor, ligand, complex, result and log 
 - BIOVIA Discovery Studio Visualizer
 - SwissADME
 
+
+## Selected figures
+
+### AChE structure and docking setup
+
+| AChE structure | Docking grid |
+|---|---|
+| ![AChE structure](figures/protein_and_grid/ache_6xyy_structure.png) | ![AChE docking grid](figures/protein_and_grid/ache_docking_grid_box.png) |
+
+### Three-dimensional docking poses
+
+| Limonene | L-carvone |
+|---|---|
+| ![Limonene docking pose](figures/docking_poses/limonene_ache_docking_pose.png) | ![L-carvone docking pose](figures/docking_poses/lcarvone_ache_docking_pose.png) |
+
+| Carbaryl | Malathion |
+|---|---|
+| ![Carbaryl docking pose](figures/docking_poses/carbaryl_ache_docking_pose.png) | ![Malathion docking pose](figures/docking_poses/malathion_ache_docking_pose.png) |
+
+### Two-dimensional protein-ligand interaction diagrams
+
+| Limonene | L-carvone |
+|---|---|
+| ![Limonene 2D interactions](figures/interaction_diagrams/limonene_2d_interactions.jpg) | ![L-carvone 2D interactions](figures/interaction_diagrams/lcarvone_2d_interactions.png) |
+
+| Carbaryl | Malathion |
+|---|---|
+| ![Carbaryl 2D interactions](figures/interaction_diagrams/carbaryl_2d_interactions.jpg) | ![Malathion 2D interactions](figures/interaction_diagrams/malathion_2d_interactions.png) |
+
+### SwissADME BOILED-Egg visualization
+
+![SwissADME BOILED-Egg plot](figures/admet/swissadme_boiled_egg.png)
+
+
 ## Thesis PDF
 
 The full thesis PDF is intentionally not included in this initial public-ready package because it contains personal academic information. A redacted version can be added later.
